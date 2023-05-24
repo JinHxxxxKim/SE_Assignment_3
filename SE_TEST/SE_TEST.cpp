@@ -8,6 +8,11 @@
 #include "SignUp.h"
 #include "SignIn.h"
 #include "Withdraw.h"
+//#include "AddRecruitment.h"
+//#include "AddRecruitmentUI.h" // Company.cpp, RecruitmentCollection.h
+#include "LogOut.h"
+//#include "ShowRecruitmentList.h"
+//#include "ShowRecruitmentListUI.h" // Company.cpp
 //
 
 #define INPUT_FILE_NAME "input.txt"
@@ -60,7 +65,9 @@ void doTask() {
     // 회원탈퇴
     Withdraw* withDraw = new Withdraw(companyList, applicantList);
     withDraw->getWithdrawUI()->setWithdrawController(withDraw);
-
+    // 로그아웃
+    LogOut* logOut = new LogOut();
+    LogOutUI* logOutUI = logOut->getLogOutUI();
     
     int menu_level_1 = 0, menu_level_2 = 0;
     int is_program_exit = 0;

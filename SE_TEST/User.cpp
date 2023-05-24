@@ -8,9 +8,7 @@ User::User(string id, string pw) {
 	this->PW = pw;
 }
 
-User::~User() {
-	cout << "USER ¼Ò¸êÀÚ È£Ãâ" << endl;
-}
+User::~User() {}
 
 //getter
 string User::getID() { return this->ID; }

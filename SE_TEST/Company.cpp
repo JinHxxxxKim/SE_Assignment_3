@@ -4,9 +4,7 @@ using namespace std;
 Company::Company() {
 }
 
-Company::~Company() {
-    cout << "Company ¼Ò¸êÀÚ È£Ãâ" << endl;
-}
+Company::~Company() {}
 
 Company::Company(string companyName, int businessNumber, string id, string pw) :User(id, pw) {
     this->companyName = companyName;
