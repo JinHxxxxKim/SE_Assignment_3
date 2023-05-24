@@ -1,4 +1,4 @@
-#include "..\control\LogOut.h"
+#include "LogOut.h"
 #include <iostream>
 
 using namespace std;
