@@ -1,0 +1,98 @@
+1.1.회원가입
+> 1 company1 11111 companyID1 companyPW1
+
+1.1.회원가입
+> 1 company2 22222 companyID2 companyPW2
+
+1.1.회원가입
+> 1 company3 33333 companyID3 companyPW3
+
+1.1.회원가입
+> 1 company4 33333 companyID4 companyPW4
+
+1.1.회원가입
+> 1 company5 33333 companyID5 companyPW5
+
+1.1.회원가입
+> 1 company6 33333 companyID6 companyPW6
+
+1.1.회원가입
+> 1 company7 33333 companyID7 companyPW7
+
+1.1.회원가입
+> 1 company8 33333 companyID8 companyPW8
+
+1.1.회원가입
+> 1 company9 33333 companyID9 companyPW9
+
+1.1.회원가입
+> 1 company10 33333 companyID10 companyPW10
+
+1.1.회원가입
+> 2 applicant1 111111 applicantID1 applicantPW1
+
+1.1.회원가입
+> 2 applicant2 222222 applicantID2 applicantPW2
+
+1.1.회원가입
+> 2 applicant2 333333 applicantID3 applicantPW3
+
+1.1.회원가입
+> 2 applicant2 444444 applicantID4 applicantPW4
+
+1.1.회원가입
+> 2 applicant2 555555 applicantID5 applicantPW5
+
+1.1.회원가입
+> 2 applicant2 666666 applicantID6 applicantPW6
+
+1.1.회원가입
+> 2 applicant2 777777 applicantID7 applicantPW7
+
+1.1.회원가입
+> 2 applicant2 888888 applicantID8 applicantPW8
+
+1.1.회원가입
+> 2 applicant2 999999 applicantID9 applicantPW9
+
+2.1. 로그인
+> 2 applicantID1 applicantPW1
+
+2.1. 로그인
+> 2 companyID1 companyPW1
+
+1.2. 회원탈퇴
+> companyID1
+2.1. 로그인
+> 2 applicantID7 applicantPW7
+
+1.2. 회원탈퇴
+> applicantID7
+2.1. 로그인
+> 2 applicantID1 applicantPW1
+
+1.2. 회원탈퇴
+> applicantID1
+2.1. 로그인
+> 2 companyID9 companyPW9
+
+1.2. 회원탈퇴
+> companyID9
+====================
+||   company2     ||
+||   company3     ||
+||   company4     ||
+||   company5     ||
+||   company6     ||
+||   company7     ||
+||   company8     ||
+||   company10     ||
+====================
+||   applicant2   ||
+||   applicant2   ||
+||   applicant2   ||
+||   applicant2   ||
+||   applicant2   ||
+||   applicant2   ||
+||   applicant2   ||
+====================
