@@ -10,13 +10,13 @@
 1 1 1 company10 33333 companyID10 companyPW10
 1 1 2 applicant1 111111 applicantID1 applicantPW1
 1 1 2 applicant2 222222 applicantID2 applicantPW2
-1 1 2 applicant2 333333 applicantID3 applicantPW3
-1 1 2 applicant2 444444 applicantID4 applicantPW4
-1 1 2 applicant2 555555 applicantID5 applicantPW5
-1 1 2 applicant2 666666 applicantID6 applicantPW6
-1 1 2 applicant2 777777 applicantID7 applicantPW7
-1 1 2 applicant2 888888 applicantID8 applicantPW8
-1 1 2 applicant2 999999 applicantID9 applicantPW9
+1 1 2 applicant3 333333 applicantID3 applicantPW3
+1 1 2 applicant4 444444 applicantID4 applicantPW4
+1 1 2 applicant5 555555 applicantID5 applicantPW5
+1 1 2 applicant6 666666 applicantID6 applicantPW6
+1 1 2 applicant7 777777 applicantID7 applicantPW7
+1 1 2 applicant8 888888 applicantID8 applicantPW8
+1 1 2 applicant9 999999 applicantID9 applicantPW9
 2 1 applicantID1 applicantPW1
 2 1 companyID1 companyPW1
 1 2
@@ -26,4 +26,6 @@
 1 2
 2 1 companyID9 companyPW9
 1 2
+2 1 companyID2 companyPW2
+2 2
 6 1

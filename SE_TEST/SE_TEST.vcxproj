@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Applicant.cpp" />
     <ClCompile Include="Company.cpp" />
+    <ClCompile Include="LogOut.cpp" />
     <ClCompile Include="SE_TEST.cpp" />
     <ClCompile Include="SignIn.cpp" />
     <ClCompile Include="SignInUI.cpp" />
@@ -141,6 +142,8 @@
   <ItemGroup>
     <ClInclude Include="Applicant.h" />
     <ClInclude Include="Company.h" />
+    <ClInclude Include="LogOut.h" />
+    <ClInclude Include="LogOutUI.h" />
     <ClInclude Include="SignIn.h" />
     <ClInclude Include="SignInUI.h" />
     <ClInclude Include="SignUp.h" />
