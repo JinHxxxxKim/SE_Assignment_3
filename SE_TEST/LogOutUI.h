@@ -1,6 +1,6 @@
 #ifndef LOGOUTUI_H
 #define LOGOUTUI_H
-#include "..\domain\User\User.h"
+#include "User.h"
 #include <fstream>
 
 class LogOut;
